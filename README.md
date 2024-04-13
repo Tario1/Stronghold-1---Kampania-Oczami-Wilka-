@@ -12,7 +12,7 @@ Instalacja:
 
 Do głównego katalogu z grą -> Stronghold Definitive Edition
 
-2. Najlepiej mieć ustawiony w grze język Angielski inaczej mogą się wydarzyć dziwne rzeczy z tekstami (Kampania mimo wszystko jest po polsku)
+2. Najlepiej instalować na język polski twierdzy
 
 3. Graj kolorem czarnym(szarym)
 
