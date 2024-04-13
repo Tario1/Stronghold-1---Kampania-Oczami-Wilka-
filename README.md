@@ -1,5 +1,5 @@
 Dzięki za pobranie kampanii!
-Wersja 0.4
+Wersja 0.41
 
 Zawartość:
 - 4 misje które zastępują 4 misje z Pierwszej kampanii PERŁY
@@ -15,6 +15,8 @@ Do głównego katalogu z grą -> Stronghold Definitive Edition
 2. Najlepiej mieć ustawiony w grze język Angielski inaczej mogą się wydarzyć dziwne rzeczy z tekstami (Kampania mimo wszystko jest po polsku)
 
 3. Graj kolorem czarnym(szarym)
+
+4. Misje zawierają porady. Warto je czytać.
 
 Bugi:
 - W trakcie narracji przed misjami trzeba samodzielnie pominąć tekst gdy skończy się przewijać. Nie dzieje się to automatycznie.
