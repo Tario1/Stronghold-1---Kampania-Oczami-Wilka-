@@ -1,8 +1,8 @@
 Dzięki za pobranie kampanii!
-Wersja 0.41
+Wersja 0.5
 
 Zawartość:
-- 4 misje które zastępują 4 misje z Pierwszej kampanii PERŁY
+- 5 misji które zastępują 5 misji z Pierwszej kampanii PERŁY
 - Misje zawierają własną narracje
 
 Instalacja:
