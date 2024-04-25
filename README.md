@@ -1,5 +1,5 @@
 Dzięki za pobranie kampanii!
-Wersja 0.5
+Wersja 0.51
 
 Zawartość:
 - 5 misji które zastępują 5 misji z Pierwszej kampanii PERŁY
