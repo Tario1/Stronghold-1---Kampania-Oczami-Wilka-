@@ -2,7 +2,7 @@ Dzięki za pobranie kampanii!
 Wersja 0.65
 
 Zawartość:
-- 5 misji które zastępują 5 misji z Pierwszej kampanii PERŁY
+- 6 misji które zastępują 6 misji z Pierwszej kampanii PERŁY
 - Misje zawierają własną narracje
 
 Instalacja:
